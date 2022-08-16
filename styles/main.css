@@ -1,3 +1,24 @@
-body{
+/* body{
     background-color: red;
-}
+} */
+
+
+header {
+    background-image: url("../images/hero.jpg");
+    background-color: rgb(236, 238, 238);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: right;
+    height: 10rem;
+    font-size: 1.3rem;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.65);
+    position: fixed;
+    width: 100%;
+    top: 0;
+  }
+  
+  header h1 {
+    padding-right: 1.3rem;
+  }
+  
